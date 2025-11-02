@@ -55,11 +55,11 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## 💻 Most Used Languages
-![Top Language GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarjaiswal3&layout=compact&theme=slateorange&langs_count=6)
+![Top Language GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarjaiswal3&layout=compact&theme=slateorange&langs_count=6&hide_border=false)
 
 
 ## 📈 GitHub Stats
-![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarjaiswal3&count_private=true&show_icons=true&theme=slateorange)
+![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarjaiswal3&count_private=true&show_icons=true&theme=slateorange&hide_border=false)
 
 
 ## 🏆 GitHub Trophies
@@ -68,11 +68,6 @@
 
 ## 🔥 Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=sagarjaiswal3&theme=gruvbox)](https://git.io/streak-stats)
-
-
-## 📊 Activity Graph
-[![Sagar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sagarjaiswal3&theme=github-compact)](https://github.com/sagarjaiswal3)
-
 
 ## 📌 Featured Projects
 ✅ [Android JNI Dynamic Library Loader & Auto-Update System](https://github.com/sagarjaiswal3/Android-JNI-Dynamic-Library-Loader-Auto-Update-System)  
