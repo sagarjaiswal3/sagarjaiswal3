@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Sagar Jaiswal 👋</h1>
 
 <p align="center">
-🎯 Reverse Engineering Enthusiast | 💻 Multi-language Developer | 🇳🇵 From Nepal  
+🎯 Reverse Engineering Enthusiast | 💻 Multi-language Developer | From Nepal  
 </p>
 
 <p align="center">
