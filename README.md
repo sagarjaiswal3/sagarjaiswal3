@@ -69,10 +69,6 @@
 ## 🔥 Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=sagarjaiswal3&theme=gruvbox)](https://git.io/streak-stats)
 
-## 📌 Featured Projects
-✅ [Android JNI Dynamic Library Loader & Auto-Update System](https://github.com/sagarjaiswal3/Android-JNI-Dynamic-Library-Loader-Auto-Update-System)  
-✅ More coming soon...
-
 ### ✅ Feel free to connect or collaborate!  
 🚀 “I know that I know nothing — and that’s how I keep learning.”
 
