@@ -55,19 +55,15 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## 💻 Most Used Languages
-![Top Language GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarjaiswal3&layout=compact&theme=slateorange&langs_count=6&hide_border=false)
+![Top Language GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarjaiswal3&layout=compact&theme=slateorange&langs_count=6&hide_border=false&v=2)
 
 
 ## 📈 GitHub Stats
-![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarjaiswal3&count_private=true&show_icons=true&theme=slateorange&hide_border=false)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sagarjaiswal3&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagarjaiswal3&count_private=true&show_icons=true&theme=slateorange&hide_border=false&cache_seconds=1800&v=3)
 
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=sagarjaiswal3&theme=gruvbox)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=sagarjaiswal3&theme=gruvbox&hide_border=false)
 
 ### ✅ Feel free to connect or collaborate!  
 🚀 “I know that I know nothing — and that’s how I keep learning.”
